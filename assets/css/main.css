@@ -211,15 +211,18 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2.0em;
 	}
 
 	h3 {
 		font-size: 1.25em;
+		text-align: left;
+
 	}
 
 	h4 {
 		font-size: 1.1em;
+		text-align: left;
 	}
 
 	h5 {
@@ -3258,7 +3261,7 @@ input, select, textarea {
 		}
 
 		#nav + #main {
-			padding-top: 4.25em;
+			padding-top: 3em;
 		}
 
 		#nav ul {
